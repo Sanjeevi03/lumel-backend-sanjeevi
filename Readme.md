@@ -16,3 +16,4 @@
 ## Need to improve
  - instead calculating of revenue from code, better use aggregate to calculate
  - for time being code is used to calculate
+ - instead localhost db, better use atlas
